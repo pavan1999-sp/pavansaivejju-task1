@@ -1,0 +1,42 @@
+
+
+
+
+#datdiv, #matdiv{
+    width: 400px;
+    height: 300px;
+    background-color: cornsilk;
+    border: solid 2px black;
+    float: left;
+    margin-left: 10px;
+    margin-left: 300px;
+
+}
+#result{
+    width: 400px;
+height: 300px;
+    background-color: rgb(215, 246, 247);
+    padding: 50px;
+    margin-left: 40%;
+    color: black;
+    margin-top: 300px
+    
+    
+    
+    
+}
+button{
+    width: 80px;
+    height: 40px;
+    margin-top: 60px;
+    margin-left: 50px;
+    color: cornflowerblue;
+}
+input{
+   margin-left: 70px;
+  margin-top: 20px;
+}
+#datefact{
+    margin-top: 20px;
+    margin-left: 120px;
+}  
